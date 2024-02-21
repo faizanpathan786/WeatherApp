@@ -60,6 +60,4 @@ function showImage() {
 
 // Assuming you have another function to fetch and display hourly forecast
 
-function displayHourlyForecast(hourlyData) {
-
-}
+ 
